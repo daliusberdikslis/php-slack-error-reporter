@@ -1,5 +1,5 @@
 {
-	"name": "tailored-tunes/php-slack-error-reporter",
+	"name": "daliusberdikslis/php-slack-error-reporter",
 	"description": "A slack adapter for error reporting",
 	"type": "library",
 	"keywords": ["slack", "notification"],
@@ -13,7 +13,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.0",
+		"php": ">=7.0",
 		"tailored-tunes/php-slack-notifier": "1.*"
 	},
 	"autoload": {
